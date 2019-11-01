@@ -11,6 +11,6 @@ spec:
       - port: 80
         targetport: 80
     selector:
-        name: Result-app-pod
+        name: result-app-pod
         app: demo-Result-app
             
